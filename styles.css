@@ -61,7 +61,10 @@ h5 {
     opacity: 0.4;
 }
 
-
+body {
+    background-image: url("clouds.jpg");
+    background-color: #cccccc;
+    }
 
 iframe{
     margin-top: 15rem;
